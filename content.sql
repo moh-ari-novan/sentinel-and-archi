@@ -366,3 +366,6 @@ SELECT * from pxipp;
 SELECT * from itdhd;
 SELECT * from ykhbi;
 SELECT * from wngdx;
+SELECT * from fbvgj;
+SELECT * from qfejs;
+SELECT * from kpyvd;
